@@ -1,0 +1,64 @@
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\bin\Debug\PCSC.dll
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\obj\Debug\CardInfo.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\obj\Debug\CardInfo.Form1.resources
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.Cache
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\CardInfo\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\bin\Debug\PCSC.dll
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\obj\Debug\CardInfo.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\obj\Debug\CardInfo.Form1.resources
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.Cache
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\bin\Debug\PCSC.dll
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\obj\Debug\CardInfo.Form1.resources
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.Cache
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\bin\Debug\PCSC.dll
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.Form1.resources
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\Priyanka\Desktop\qSparc\coding\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.Cache
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.Form1.resources
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.Cache
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\bin\Debug\DetectReader.dll
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo - Copy - Copy\CardInfo\bin\Debug\DetectReader.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\obj\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\bin\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\bin\Debug\CardInfo.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\bin\Debug\DetectReader.dll
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\bin\Debug\DetectReader.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\obj\Debug\CardInfo.csprojResolveAssemblyReference.cache
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\obj\Debug\CardInfo.Form1.resources
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\obj\Debug\CardInfo.Properties.Resources.resources
+C:\Users\Priyanka\Desktop\qSparc\new working\CardInfo\CardInfo\obj\Debug\CardInfo.csproj.GenerateResource.Cache
+C:\Users\Priyanka\Desktop\qSparc\new working\new working2\CardInfo\CardInfo\bin\Debug\CardInfo.exe.config
+C:\Users\Priyanka\Desktop\qSparc\new working\new working2\CardInfo\CardInfo\obj\Debug\CardInfo.exe
+C:\Users\Priyanka\Desktop\qSparc\new working\new working2\CardInfo\CardInfo\obj\Debug\CardInfo.pdb

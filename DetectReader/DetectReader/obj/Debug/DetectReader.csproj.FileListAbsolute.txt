@@ -1,0 +1,5 @@
+C:\Users\Priyanka\Desktop\qSparc\new working\DetectReader\DetectReader\bin\Debug\DetectReader.dll
+C:\Users\Priyanka\Desktop\qSparc\new working\DetectReader\DetectReader\bin\Debug\DetectReader.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\DetectReader\DetectReader\obj\Debug\DetectReader.dll
+C:\Users\Priyanka\Desktop\qSparc\new working\DetectReader\DetectReader\obj\Debug\DetectReader.pdb
+C:\Users\Priyanka\Desktop\qSparc\new working\DetectReader\DetectReader\obj\Debug\DetectReader.csprojResolveAssemblyReference.cache
